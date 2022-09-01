@@ -1,0 +1,29 @@
+Width 150
+MainMenu Menu
+	Button button1 simpleFunc
+	SubMenu SubMenu1
+		Button button2 simpleMB
+		Button button3 MB 0 9 8
+		Button toolongbuttonname simpleMB
+		Button button4 simpleMB
+		Button button5 simpleMB
+		Button button6 simpleMB
+		Button button7 simpleMB
+		Button button8 simpleMB
+	EndSubMenu
+	SubMenu SubMenu2
+		Button button2 simpleMB
+		Button button3 MB 3 4 5 
+		Button toolongbuttonname2 simpleMB
+		SubMenu SubMenu3
+			Button button6 simpleMB
+			Button button7 MB 2 7 83
+			Button button8 simpleMB
+		EndSubMenu
+		Button button4 simpleMB
+		Button button5 simpleMB
+		Button button6 simpleMB
+		Button button7 simpleMB
+		Button button8 simpleMB
+	EndSubMenu
+	Button exit exit

@@ -1,0 +1,1 @@
+A simple menu with glut, with the ability to set configuration from a file.

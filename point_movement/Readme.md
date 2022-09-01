@@ -1,0 +1,1 @@
+The movement of a point that leaving a dispersing trail.

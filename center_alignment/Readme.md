@@ -1,0 +1,1 @@
+Align lines of text to the center of an area of ​​a given width.
